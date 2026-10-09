@@ -1,0 +1,8 @@
+dist/
+backups/
+*.gpdmap
+*.log
+*.pdb
+*.obj
+*.user
+.vs/
